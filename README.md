@@ -142,10 +142,9 @@ Hands-on practice repositories and technical notes:
 
 # 📈 GitHub Activity Graph
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince16605&theme=github-compact&hide_border=true&area=true&custom_title=Prince%20Vaghasiya%27s%20Contribution%20Graph" width="100%" alt="Prince Vaghasiya's GitHub Contribution Graph" />
-</div>
+## 📈 GitHub Activity Graph
 
+[![Prince Vaghasiya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prince16605&theme=github-dark&hide_border=true)](https://github.com/Prince16605)
 ---
 
 # 🎯 Current Focus
